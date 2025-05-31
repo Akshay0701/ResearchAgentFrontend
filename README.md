@@ -12,7 +12,7 @@ http://researchappweb.s3-website.us-east-2.amazonaws.com/ (did not get much time
 
 ## Demo
 
-[demo.mp4]
+🎥 [Watch Demo Video](demo.mp4)
 
 
 ### Key Features
