@@ -3,8 +3,13 @@
   to = "http://3.145.91.195/api/:splat"
   status = 200
   force = true
+  timeout = 120  # Set timeout to 120 seconds (2 minutes)
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
+[build]
+  command = "npm run build"
+  publish = "build"
